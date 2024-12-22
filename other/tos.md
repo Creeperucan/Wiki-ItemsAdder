@@ -2,7 +2,7 @@
 icon: circle-info
 ---
 
-# Terms Of Service
+# Hizmet Şartları
 
 ### How to ask for support
 
