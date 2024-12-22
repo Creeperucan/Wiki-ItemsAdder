@@ -3,11 +3,11 @@ description: This website helps you configuring and creating custom items for my
 icon: house-blank
 ---
 
-# Welcome
+# Hoş Geldinşz
 
-Some of this website pages may contain affiliate links, meaning I get a commission if you decide to make a purchase (at no cost to you).
+Bu web sitesinin bazı sayfaları, bir satın alma yapmaya karar verirseniz (size ek bir maliyet olmadan) komisyon kazandığım ortaklık bağlantıları içerebilir.
 
-### 💠Quick Links
+### 💠Hızlı Bağlantılar
 
 {% content-ref url="other/tos.md" %}
 [tos.md](other/tos.md)
@@ -21,28 +21,28 @@ Some of this website pages may contain affiliate links, meaning I get a commissi
 [adding-content](plugin-usage/adding-content/)
 {% endcontent-ref %}
 
-### 🌐Social Media
+### 🌐Sosyal Medya
 
 * [Patreon](http://patreon.com/lonedev)
 * [Ko-fi](http://a.devs.beer/kofi)
 * [YouTube](http://youtube.com/lonedev)
 * [SpigotMC](https://www.spigotmc.org/members/lonedev.88296/#resources)
 * [Website](https://www.matteodev.it/)
-* [Steam Developer Page](https://store.steampowered.com/developer/LoneDev/)
+* [Steam Geliştirici Sayfası](https://store.steampowered.com/developer/LoneDev/)
 * [Discord](https://discord.gg/4dfnpUK)
 
-## Purchase
+## Satın Alım
 
 {% hint style="warning" %}
 Buy the plugin only from official shops, if you bought it elsewhere you were scammed, ask for a refund.
 {% endhint %}
 
-### With PayPal
+### PayPal İle
 
 * [SpigotMC](https://www.spigotmc.org/resources/%E2%9C%A8itemsadder%E2%AD%90emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.73355/)
 * [Polymart](https://polymart.org/resource/itemsadder-custom-items-etc.1851)
 * [Builtbybit (Mc-market)](https://builtbybit.com/resources/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.10839/)
 
-### Without PayPal
+### PayPal Kullanmadan
 
 * [Polymart](https://polymart.org/resource/itemsadder-custom-items-etc.1851)
