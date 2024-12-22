@@ -1,5 +1,5 @@
 ---
-description: This website helps you configuring and creating custom items for my plugin
+description: Bu web sitesi, eklentim için özel öğeler yapılandırmanıza ve oluşturmanıza yardımcı olur.
 icon: house-blank
 ---
 
