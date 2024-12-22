@@ -3,7 +3,7 @@ description: This website helps you configuring and creating custom items for my
 icon: house-blank
 ---
 
-# Hoş Geldinşz
+# Hoş Geldiniz
 
 Bu web sitesinin bazı sayfaları, bir satın alma yapmaya karar verirseniz (size ek bir maliyet olmadan) komisyon kazandığım ortaklık bağlantıları içerebilir.
 
