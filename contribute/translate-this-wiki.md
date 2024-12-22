@@ -1,64 +1,63 @@
-# Translate this wiki
+# Bu Wikiyi Çevirin
 
-## How to translate this wiki?
+## Bu Wikiyi nasıl çevirebilirim?
 
-### Getting a new branch for your language
+### Diliniz için yeni bir dal almak
 
-Contact LoneDev and ask him to create a **new branch** for your language.\
-Feel free to ping **LoneDev** on the Discord or to open a support ticket in the community channel.
+LoneDev ile iletişime geçin ve diliniz için yeni bir dal oluşturmasını isteyin.\
+LoneDev'i Discord'da etiketlemekten veya topluluk kanalında bir destek bileti açmaktan çekinmeyin.
 
-### Setting up your repository
+### Depounuzu ayarlama
 
-Then, after the branch creation, open the [**Github** repository](https://github.com/LoneDev6/Wiki-ItemsAdder) of this wiki, press on **`Fork`**.
-
+Daha sonra, dal oluşturulduktan sonra, bu wiki'nin [**Github** deposunu](https://github.com/LoneDev6/Wiki-ItemsAdder) açın, **`Fork`** butonuna basın.
 ![](<../.gitbook/assets/image (99) (1).png>)
 
-Untick this option!
+Bu seçeneği işaretini kaldırın!
 
 <figure><img src="../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-Click here to change the branch.
+Dalı değiştirmek için buraya tıklayın.
 
 {% hint style="warning" %}
-DO NOT EDIT THE `master` BRANCH!
+`master` DALINI DÜZENLEMEYİN!
 {% endhint %}
 
 ![](<../.gitbook/assets/image (94).png>)
 
-Select a file you want to edit and press the **pen** button
+Düzenlemek istediğiniz dosyayı seçin ve **kalem** düğmesine basın
 
 ![](<../.gitbook/assets/image (63).png>)
-
-Edit the file and then press <mark style="color:green;">**Commit changes**</mark>
+ 
+Dosyayı düzenleyin ve ardından <mark style="color:green;">**Değişiklikleri Kaydet**</mark> butonuna basın.
 
 ![](<../.gitbook/assets/image (76) (1).png>)
 
 {% hint style="warning" %}
-## Important notes
+## Önemli Notlar
 
-* Do not add content or new pages, only translate texts.
-* The only content you can add is a "translated by" text in the welcome page.
-* Do not remove the `#` special characters, translate only the next text, these are titles.
-* Do not remove or edit special texts inside `{ }`, for example `{% hint style="info" %}`, these are used to create the hint message boxes.
-* Do not remove `*` character, these are used to create lists
-* Do not remove emojis
-* Do not translate or remove the `--- description: ---` text on top of some pages, translate only the inner text.
-* Do not remove `\` on some lines end
-* Do not remove `[TEXT](LINK)` part, translate only the text, these are the clickable links.
+* İçerik veya yeni sayfa eklemeyin, sadece metinleri çevirin.
+* Ekleyebileceğiniz tek içerik, hoş geldiniz sayfasında bir "çeviren" metni olacaktır.
+* `#` özel karakterlerini kaldırmayın, sadece sonraki metni çevirin, bunlar başlıklardır.
+* Özel metinleri `{ }` içinde kaldırmayın veya düzenlemeyin, örneğin `{% hint style="info" %}`, bunlar ipucu mesaj kutuları oluşturmak için kullanılır.
+* `*` karakterini kaldırmayın, bunlar liste oluşturmak için kullanılır.
+* Emojileri silmeyin
+* Bazı sayfaların üst kısmındaki `--- description: ---` metnini çevirip kaldırmayın, yalnızca iç metni çevirin.
+* Bazı satırların sonunda bulunan `\` karakterini kaldırmayın.
+* `[TEXT](LINK)` kısmını kaldırmayın, yalnızca metni çevirin, bunlar tıklanabilir bağlantılardır.
 {% endhint %}
 
-### Example of what you _<mark style="color:red;">must not</mark>_ edit
+### Düzenlememeniz _<mark style="color:red;">gereken</mark>_ örnek
 
 ![](<../.gitbook/assets/image (80).png>)
 
-### Last step
+### Sonraki Adım
 
-Contact **LoneDev** in order to get your changes reviewed and added to the wiki.\
-Feel free to ping **LoneDev** on the Discord or to open a support ticket in the community channel.
+Değişikliklerinizin incelenip wikiye eklenmesi için **LoneDev** ile iletişime geçin.\
+**LoneDev**'i Discord'da etiketlemekten veya topluluk kanalında bir destek bileti açmaktan çekinmeyin.
 
 {% hint style="info" %}
-Would be good if you update your translation each time the main repository (the one in English) gets edited, to reflect changes.\
-You can keep track of changes in the Discord notification channel.
+Ana depo (İngilizce olan) düzenlendiğinde değişiklikleri yansıtmak için çevirinizi her seferinde güncellemeniz iyi olur.\
+Değişiklikleri Discord bildirim kanalında takip edebilirsiniz.
 
 ![](<../.gitbook/assets/image (73).png>)
 {% endhint %}
