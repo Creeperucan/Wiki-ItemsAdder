@@ -2,9 +2,9 @@
 icon: video
 ---
 
-# Videos by users
+# Kullanıcı Videoları
 
-## Showcases
+## Videolar
 
 {% embed url="https://www.youtube.com/watch?v=YXD2KGHDY-U" %}
 
